@@ -1,0 +1,5 @@
+*.sqltile3
+*.pyc
+
+# este archivo se crea para mejorar la funcionalidad de trabajo colaborativo
+# cuando otro usuario hace un MERGE no vea tantos errores
